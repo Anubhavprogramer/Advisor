@@ -1,2 +1,2 @@
 # Advisor
-link: https://anubhav-text-app.netlify.app/
+link: https://anubhavprogramer.github.io/Advisor/
